@@ -187,7 +187,7 @@ vendor/bin/phpunit
 
 * Public URL: [https://zifalla.ilaysschool.com/dashboard](https://zifalla.ilaysschool.com/dashboard)
 * Username: `ziffala@gmail.com`
-* Password: `ziffala@1234`
+* Password: `admin1234`
 * SSE and map features are fully functional on this deployment
 
 
